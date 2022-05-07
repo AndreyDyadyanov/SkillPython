@@ -1,2 +1,3 @@
-errors.log
-.gitignore
+Modyle_14/errors.log
+.idea/
+.idea/workspace.xml
